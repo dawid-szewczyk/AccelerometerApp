@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="header_size">24sp</dimen>
+    <dimen name="normal_text">20sp</dimen>
+    <dimen name="weapon_image_width">220dp</dimen>
+    <dimen name="weapon_image_height">120dp</dimen>
+</resources>

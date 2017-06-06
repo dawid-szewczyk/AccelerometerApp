@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hero Starter Pack</string>
+    <string name="choose_weapon">Choose your weapon:</string>
+    <string name="lightsaber_desc">Shake the phone to use a lightsaber</string>
+    <string name="ammo_left">Ammunition left:</string>
+    <string name="shot">Shot</string>
+    <string name="reload">Reload</string>
+    <string name="weapons">Weapons</string>
+    <string name="lightsaber">Lightsaber</string>
+    <string name="revolver">Revolver</string>
+    <string name="rifle">Rifle</string>
+    <string name="ammo">Ammunition</string>
+    <string name="choose_ammo_number">Choose the number of bullets:</string>
+    <string name="OK">OK</string>
+    <string name="CANCEL">CANCEL</string>
+</resources>
+
